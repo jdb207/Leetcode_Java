@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+/out/
+target/
+bin/
+build/
+
+# Java
+*.class
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Optional: IDE-specific
+*.swp
+*.bak
+*.tmp
